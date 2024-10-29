@@ -25,8 +25,9 @@ O dashboard visa permitir a visualização e análise de métricas fundamentais 
 - **Filtro de Ano**: Alternância entre diferentes anos de análise (2011, 2012, 2013), permitindo a exploração detalhada de períodos específicos.
 
 ## 🖼️ Visualização do Dashboard
-- Gráfico mostrando a evolução das vendas ao longo dos meses
-- Mapa global de clientes e gráfico de vendas por país
+![](https://github.com/leoarcabold/dashboard-de-vendas/blob/main/home.jpg)
+![](https://github.com/leoarcabold/dashboard-de-vendas/blob/main/vis%C3%A3o%20geral.jpg)
+![](https://github.com/leoarcabold/dashboard-de-vendas/blob/main/clientes.jpg)
 
 ## 🔍 Análises e Insights
 
